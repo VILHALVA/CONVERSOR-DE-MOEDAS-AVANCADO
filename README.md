@@ -1,7 +1,8 @@
 # CONVERSOR DE MOEDAS AVANCADO
 👨‍🏫PROJETO CRIADO PARA O CURSO DE PHP.
 
-<img src="FOTO.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Este é um aplicativo avançado de conversão de moedas que permite ao usuário converter uma quantidade em reais para dólares americanos com base na cotação atual do dólar. 
