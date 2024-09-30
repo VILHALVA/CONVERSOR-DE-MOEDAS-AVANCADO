@@ -25,7 +25,7 @@ Este é um aplicativo avançado de conversão de moedas que permite ao usuário 
    ```bash
    php -S localhost:8080
    ```
-   - Em seguida, acesse o formulário no navegador através do endereço: [http://localhost:8080](http://localhost:8080).
+   - Em seguida, acesse o formulário no navegador através do endereço: [http://localhost:8080/index.html](http://localhost:8080/index.html).
 
 3. **Interagir com o Projeto:**
    1. Insira a quantidade de reais que deseja converter para dólares no campo fornecido.
