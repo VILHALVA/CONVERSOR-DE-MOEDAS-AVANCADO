@@ -16,11 +16,18 @@ Este é um aplicativo avançado de conversão de moedas que permite ao usuário 
 - Fornece um botão "Voltar" que permite ao usuário retornar à página de formulário para realizar outra conversão, se desejar.
 
 ## EXECUTANDO O PROJETO:
-1. **Executando o Aplicativo:**
+1. **Executando o Aplicativo com Apache:**
    - Coloque os arquivos em um servidor web compatível com PHP (por exemplo, XAMPP, WAMP, LAMP).
-   - Acesse o formulário no navegador visitando `http://localhost/CODIGO/index.html`.
+   - Acesse o formulário no navegador visitando [http://localhost/CODIGO/index.php](http://localhost/CODIGO/index.php).
 
-2. **Interagir com o Projeto:**
+2. **Executando o Aplicativo com `php.exe`:**
+   - Alternativamente, você pode iniciar o servidor diretamente no diretório `./CODIGO` com o comando abaixo:
+   ```bash
+   php -S localhost:8080
+   ```
+   - Em seguida, acesse o formulário no navegador através do endereço: [http://localhost:8080](http://localhost:8080).
+
+3. **Interagir com o Projeto:**
    1. Insira a quantidade de reais que deseja converter para dólares no campo fornecido.
    2. Clique no botão "Converter" para enviar o formulário.
    3. Após o processamento, você será redirecionado para uma página que exibirá o valor convertido em dólares com base na cotação atual.
